@@ -1,17 +1,6 @@
 # BrowserUse
 
-`browserUse.py`は、ブラウザ使用統計を分析し、レポートするためのPythonスクリプトです。このREADMEでは、スクリプトの概要、使用方法、および開始方法について説明します。
-
-## 特徴
-
-- さまざまなソースからブラウザ使用データを解析
-- 詳細な使用レポートを生成
-- 複数の出力形式をサポート（例：CSV、JSON）
-
-## 必要条件
-
-- Python 3.x
-- 必要なPythonライブラリ（`requirements.txt`に記載）
+`browserUse.py`は、browser_useのAgentとChatGPTを使用して、ブラウザの自動操作を行うデモソースです
 
 ## インストール
 
